@@ -1,1 +1,4 @@
-# DefautsCredits
+# Risque de credit 
+Lorsqu'une banque prête de l'argent à une personne, elle prend le risque que cette dernière ne rembourse pas cet argent dans le délai convenu. Ce risque est appelé Risque de crédit. Alors avant d'octroyer un crédit, les banques vérifient si le client ou la cliente qui demandent un prêt sera capable ou pas de le rembourser. Cette vérification se fait grâce à l'analyse de plusieurs paramètres tels que les revenus, les biens, les dépenses actuelles du client ou de la cliente, etc. Cette analyse est effectuée manuellement par plusieurs banques. Ainsi, elle est très consommatrice en temps et en ressources financières.
+
+Grâce au Machine Learning, il est possible d'automatiser cette tâche. Dans ce projet, nous allons construire un algorithme capable de prédire si une personne sera en défaut de paiement ou pas. Nous somme donc face à un problème de classification car nous voulons prédire une variable binaire.
